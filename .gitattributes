@@ -3,3 +3,4 @@ rental_single_station.csv filter=lfs diff=lfs merge=lfs -text
 rental_clusters.csv filter=lfs diff=lfs merge=lfs -text
 rental_stations.csv filter=lfs diff=lfs merge=lfs -text
 return_clusters.csv filter=lfs diff=lfs merge=lfs -text
+return_stations.csv filter=lfs diff=lfs merge=lfs -text
